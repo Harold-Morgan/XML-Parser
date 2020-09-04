@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Document-WeekSales>
+  <WeekSale-Lines>
+
+  <Line>
+    <SaleNumber>Док1</SaleNumber>
+    <SaleDate>15.02.2020</SaleDate>
+    <SaleItemCode>1</SaleItemCode>
+    <SaleQuantity>10.00</SaleQuantity>
+    <SalePrice>115.4500</SalePrice>
+  </Line>
+  <Line>
+    <SaleNumber>Док4</SaleNumber>
+    <SaleDate>16.02.2020</SaleDate>
+    <SaleItemCode>3</SaleItemCode>
+    <SaleQuantity>127.00</SaleQuantity>
+    <SalePrice>15.7500</SalePrice>
+  </Line>
+  <Line>
+    <SaleNumber>Док57</SaleNumber>
+    <SaleDate>15.02.2020</SaleDate>
+    <SaleItemCode>1</SaleItemCode>
+    <SaleQuantity>1000.00</SaleQuantity>
+    <SalePrice>115.4500</SalePrice>
+  </Line>
+  <Line>
+    <SaleNumber>Док14</SaleNumber>
+    <SaleDate>13.02.2020</SaleDate>
+    <SaleItemCode>5</SaleItemCode>
+    <SaleQuantity>120.00</SaleQuantity>
+    <SalePrice>75.7000</SalePrice>
+  </Line>
+  <Line>
+    <SaleNumber>Док31</SaleNumber>
+    <SaleDate>14.02.2020</SaleDate>
+    <SaleItemCode>7</SaleItemCode>
+    <SaleQuantity>20.00</SaleQuantity>
+    <SalePrice>115.4500</SalePrice>
+  </Line>
+    </WeekSale-Lines>
+
+</Document-WeekSales>
+
